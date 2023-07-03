@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">multisense-sdk-integration</string>
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+</resources>
